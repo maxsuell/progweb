@@ -1,0 +1,45 @@
+<html><!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	body { 
+		background-image: url("roma.jpg");
+	}
+
+
+</style>
+
+<meta charset= "UTF8"/><br/>
+	<title>
+	Instituto de Computação	
+	</title>
+
+
+</head>
+<body>
+
+
+<style type="text/css">
+	
+#div{
+	border-radius: 30px;
+   height: 200px;
+   width: 300px;
+border: 10px solid #8B4513;
+padding: 20px 20px 20px 20px ;
+opacity:.8;
+background: #FFFAFA
+}
+
+</style>
+<div id="div">
+
+<h1 align= "center" >Cidade de Roma</h1>
+
+<p align= "Justify" >Roma é a capital da Itália, é uma comuna italiana e está sediada na província de mesmo nome, na região de Lácio, conhecida internacionalmente como a cidade Eterna pela sua história milenar, Roma espalha-se pela margem do rio Tibre.</p>	
+
+</div>
+
+
+<body/>
+<html/>
